@@ -1,0 +1,20 @@
+{
+  "item.hexenwerk.wand": "Magical Wand",
+  "item.hexenwerk.magical_flower": "Magical Flower",
+  "item.hexenwerk.magical_shard": "Magical Shard",
+  "item.hexenwerk.wand_crafter": "Wand Crafter",
+  "item.hexenwerk.magical_crafting_table": "Magical Crafting Table",
+  "lore.hexenwerk.magical_flower": "The air is shimmering...",
+  "text.hexenwerk.swapslot_1": "§aSwapped the selected slot of your §dMagical Wand§a to §61§a!",
+  "text.hexenwerk.swapslot_2": "§aSwapped the selected slot of your §dMagical Wand§a to §62§a!",
+  "text.hexenwerk.swapslot_3": "§aSwapped the selected slot of your §dMagical Wand§a to §63§a!",
+  "text.hexenwerk.spell.not_enough_mana": "You don't have enough mana to cast that spell!",
+  "text.hexenwerk.spell.cast": "Successfully casted the following spell:",
+  "text.hexenwerk.mana_regen_of_flower": "You regained 10 mana for breaking a magical flower!",
+  "text.hexenwerk.supported_languages": "\n §nCurrently Supported Languages: §r\n\n \uE053 - American English \n\n \uE052 - British English \n\n \uE051 - German \n\n \uE054 - Hindi (Translated by MythicalDream69) \n\n \uE055 - Arabic (Translated by Anas099) \n\n We are trying to support as many languages as possible! If you want to contribute translations of your language make sure to message me on §9Planet Minecraft (Flynecraft) §ror §9Discord (Flynecraft#1016)§r!",
+  "text.hexenwerk.help": "§nCurrently Aviable Commands:§r\n\n \"/trigger hexenwerk.help\"\n \"/trigger hexenwerk.languages\"",
+  "You currently don't have the required recourcepack installed!": "§aYou have the required recourcepack installed!",
+  "gui.hexenwerk.magical_crafting_table":"          Magical Crafting",
+  "gui.hexenwerk.button.wand_crafting":"Wand Crafting",
+  "gui.hexenwerk.button.magical_crafting":"Magical Crafting"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "item/warped_fungus_on_a_stick"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":1725}, "model": "item/magical_wand"},
+    {"predicate": {"custom_model_data":1825}, "model": "item/dev_stone_deactivated"},
+    {"predicate": {"custom_model_data":1826}, "model": "item/dev_stone_debug"},
+    {"predicate": {"custom_model_data":1827}, "model": "item/dev_stone_dev"}
+
+  ]
+}
