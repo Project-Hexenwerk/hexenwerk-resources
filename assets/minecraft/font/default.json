@@ -3,43 +3,43 @@
         {
             "type": "bitmap",
             "file": "minecraft:item/icons/mana_point_full.png",
-            "ascent": 2,
-            "height": 27,
+            "ascent": -9,
+            "height": 16,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:item/icons/mana_point_half.png",
-            "ascent": 2,
-            "height": 27,
+            "ascent": -9,
+            "height": 16,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:item/icons/mana_point_empty.png",
-            "ascent": 2,
-            "height": 27,
+            "ascent": -9,
+            "height": 16,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:item/icons/mana_point_full.png",
-            "ascent": 12,
-            "height": 27,
+            "ascent": 1,
+            "height": 16,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:item/icons/mana_point_half.png",
-            "ascent": 12,
-            "height": 27,
+            "ascent": 1,
+            "height": 16,
             "chars": ["\uE005"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:item/icons/mana_point_empty.png",
-            "ascent": 12,
-            "height": 27,
+            "ascent": 1,
+            "height": 16,
             "chars": ["\uE006"]
         },
         {
@@ -72,6 +72,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/magical_book.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
@@ -85,7 +92,7 @@
             "ascent": -32768,
             "height": -4,
             "chars": [
-                "\uF802"
+                "\uF801"
             ]
         },
         {
