@@ -1,7 +1,9 @@
 {
+  "item.minecraft.knowledge_book": "Magischer Gegenstand",
   "item.hexenwerk.wand": "Zauberstab",
   "item.hexenwerk.magical_flower": "Magische Blume",
   "item.hexenwerk.magical_shard": "Magische Scherbe",
+  "item.hexenwerk.magical_crystal": "Magischer Kristall",
   "item.hexenwerk.wand_crafter": "Zauberstabherstellungstisch",
   "item.hexenwerk.magical_crafting_table": "Magische Werkbank",
   "item.hexenwerk.spellbook":"Zauberbuch",

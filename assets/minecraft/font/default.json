@@ -79,6 +79,42 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/icons/links/modrinth.png",
+            "ascent": 9,
+            "height": 12,
+            "width": 12,
+            "chars": ["\uE201"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/links/flynecraft.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE202"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/links/pmc.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE203"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/links/loginatorv.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE204"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/links/youtube.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE205"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,

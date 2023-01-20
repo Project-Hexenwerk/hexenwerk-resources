@@ -1,7 +1,9 @@
 {
+  "item.minecraft.knowledge_book": "Magical Item",
   "item.hexenwerk.wand": "Magical Wand",
   "item.hexenwerk.magical_flower": "Magical Flower",
   "item.hexenwerk.magical_shard": "Magical Shard",
+  "item.hexenwerk.magical_crystal": "Magical Crystal",
   "item.hexenwerk.wand_crafter": "Wand Crafter",
   "item.hexenwerk.magical_crafting_table": "Magical Crafting Table",
   "item.hexenwerk.spellbook":"Spellbook",
