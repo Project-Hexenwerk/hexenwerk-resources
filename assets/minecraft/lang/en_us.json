@@ -17,8 +17,20 @@
   "text.hexenwerk.supported_languages": "\n §nCurrently Supported Languages: §r\n\n \uE053 - American English \n\n \uE052 - British English \n\n \uE051 - German \n\n \uE054 - Hindi (Translated by MythicalDream69) \n\n \uE055 - Arabic (Translated by Anas099) \n\n We are trying to support as many languages as possible! If you want to contribute translations of your language make sure to message me on §9Planet Minecraft (Flynecraft) §ror §9Discord (Flynecraft#1016)§r!",
   "text.hexenwerk.help": "§nCurrently Aviable Commands:§r\n\n \"/trigger hexenwerk.help\"\n \"/trigger hexenwerk.languages\"",
   "text.hexenwerk.spell_none": "• None",
+  "text.hexenwerk.spell_none_2": "None",
   "Required Recource Pack installed: ✖": "§fRequired Recource Pack installed: §a§l\u2713",
   "gui.hexenwerk.magical_crafting_table":"          Magical Crafting",
   "gui.hexenwerk.button.wand_crafting":"Wand Crafting",
-  "gui.hexenwerk.button.magical_crafting":"Magical Crafting"
+  "gui.hexenwerk.button.magical_crafting":"Magical Crafting",
+  "advancement.hexenwerk.description.hexenwerk":"The beginning of something... magical",
+  "advancement.hexenwerk.shard":"Mom, It Broke",
+  "advancement.hexenwerk.description.shard":"Obtain Magical Shards by breaking a Magical Flower",
+  "advancement.hexenwerk.crystal":"\"Too\" Shiny",
+  "advancement.hexenwerk.description.crystal":"Use 9 Magical Shards to craft a Magical Crystal",
+  "advancement.hexenwerk.wand":"Magical Crystal On A Stick",
+  "advancement.hexenwerk.description.wand":"Obtain a Wand",
+  "advancement.hexenwerk.crafting":"Witchcraft",
+  "advancement.hexenwerk.description.crafting":"Craft a Magical Crafting Table",
+  "advancement.hexenwerk.spell":"You're A Wizard, Harry!",
+  "advancement.hexenwerk.description.spell":"Cast your first spell"
 }
