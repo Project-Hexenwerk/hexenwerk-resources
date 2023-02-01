@@ -1,0 +1,13 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/book"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":1725}, "model": "item/magical_book"},
+      {"predicate": {"custom_model_data":1726}, "model": "item/spellbooks/ardo"},
+      {"predicate": {"custom_model_data":1727}, "model": "item/spellbooks/wingardium_leviosa"},
+      {"predicate": {"custom_model_data":1728}, "model": "item/spellbooks/auxiliare"},
+      {"predicate": {"custom_model_data":1729}, "model": "item/spellbooks/commovus"}
+  ]
+}

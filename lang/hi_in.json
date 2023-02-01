@@ -1,0 +1,22 @@
+{
+    "item.hexenwerk.wand": "जादुई छड़ी",
+    "item.hexenwerk.magical_flower": "जादुई फूल",
+    "item.hexenwerk.magical_shard": "जादुई ठीकरा",
+    "item.hexenwerk.wand_crafter": "छड़ी कारीगर",
+    "item.hexenwerk.magical_crafting_table": "जादुई कारीगरी मेज़",
+    "lore.hexenwerk.magical_flower": "हवा झिलमिला रही है...",
+    "text.hexenwerk.swapslot_1": "§aअपनी §dजादुई छड़ी§a के चयनित स्लॉट को §61§a में बदल दिया!",
+    "text.hexenwerk.swapslot_2": "§aअपनी §dजादुई छड़ी§a के चयनित स्लॉट को §62§a में बदल दिया!",
+    "text.hexenwerk.swapslot_3": "§aअपनी §dजादुई छड़ी§a के चयनित स्लॉट को §63§a में बदल दिया!",
+    "text.hexenwerk.spell.not_enough_mana": "उस जादू को डालने के लिए आपके पास पर्याप्त माना नहीं है!",
+    "text.hexenwerk.spell.cast": "निम्नलिखित मंत्र को सफलतापूर्वक कास्ट किया गया:",
+    "text.hexenwerk.mana_regen_of_flower": "आपको जादुई फूल तोड़ने से १० माना वापस प्राप्त हुए!",
+    "text.hexenwerk.supported_languages": "\n §nवर्तमान में समर्थित भाषाएँ: §r\n\n \uE053 - अमेरिकी अंग्रेजी \n\n \uE052 - ब्रिटिश अंग्रेजी \n\n \uE051 - जर्मन \n\n \uE054 - हिंदी (Translated by MythicalDream69) \n\n हम अधिक से अधिक भाषाओं का समर्थन करने का प्रयास कर रहे हैं! यदि आप अपनी भाषा के अनुवाद में योगदान देना चाहते हैं तो मुझे §9पलैनेट माइनक्राफ्ट (Flynecraft) §rसंदेश देना सुनिश्चित करें या §9Discord (Flynecraft#1016)§r!",
+    "text.hexenwerk.help": "§nवर्तमान में उपलब्ध आदेश:§r\n\n  \"/trigger hexenwerk.help\"\n \"/trigger hexenwerk.languages\"",
+    "text.hexenwerk.spell_none":"• कोई भी नहीं",
+    "Required Recource Pack installed: ✖": "§fRequired Recource Pack installed: §a§l\u2713",
+    "gui.hexenwerk.magical_crafting_table":"          जादुई कारीगरी",
+    "gui.hexenwerk.button.wand_crafting":"छड़ी कारीगरी",
+    "gui.hexenwerk.button.magical_crafting":"जादुई कारीगरी"
+  }
+  

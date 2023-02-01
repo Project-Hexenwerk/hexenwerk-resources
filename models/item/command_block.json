@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/command_block",
+  "textures": {
+    "layer0": "minecraft:block/command_block"
+    },
+    "overrides": [
+    {"predicate": {"custom_model_data":1725}, "model": "item/magical_shard"}
+  ]
+}
