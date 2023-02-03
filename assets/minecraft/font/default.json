@@ -115,6 +115,83 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/icons/links/whimzeee.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE206"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/links/blip.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE207"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/links/puckisilver.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE208"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/links/oranamous.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE209"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/links/silabear.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE210"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/none.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE501"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/default.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE502"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/ardo.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE503"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/wingardium_leviosa.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE504"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/auxiliare.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE505"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/commovus.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE506"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -3,
