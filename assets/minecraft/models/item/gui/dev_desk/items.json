@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "item/gui/dev_desk/items"
+	},
+	"elements": [
+		{
+			"name": "PlaneX1",
+			"from": [7.25, 0, -13.25],
+			"to": [8.25, 15, 30.25],
+			"faces": {
+				"east": {"uv": [5.125, 8.5, 16, 16], "texture": "#texture"},
+				"west": {"uv": [5.125, 8.5, 16, 16], "texture": "#texture"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [-70, 3, 1],
+			"scale": [0.0001, 3.985, 3.985]
+		}
+	}
+}
