@@ -8,6 +8,7 @@
       {"predicate": {"custom_model_data":1726}, "model": "item/spellbooks/ardo"},
       {"predicate": {"custom_model_data":1727}, "model": "item/spellbooks/wingardium_leviosa"},
       {"predicate": {"custom_model_data":1728}, "model": "item/spellbooks/auxiliare"},
-      {"predicate": {"custom_model_data":1729}, "model": "item/spellbooks/commovus"}
+      {"predicate": {"custom_model_data":1729}, "model": "item/spellbooks/commovus"},
+      {"predicate": {"custom_model_data":1730}, "model": "item/spellbooks/amogius"}
   ]
 }
