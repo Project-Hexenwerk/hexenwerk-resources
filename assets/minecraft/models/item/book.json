@@ -9,6 +9,13 @@
       {"predicate": {"custom_model_data":1727}, "model": "item/spellbooks/wingardium_leviosa"},
       {"predicate": {"custom_model_data":1728}, "model": "item/spellbooks/auxiliare"},
       {"predicate": {"custom_model_data":1729}, "model": "item/spellbooks/commovus"},
-      {"predicate": {"custom_model_data":1730}, "model": "item/spellbooks/amogius"}
+      {"predicate": {"custom_model_data":1730}, "model": "item/spellbooks/amogius"},
+      {"predicate": {"custom_model_data":1731}, "model": "item/spellbooks/aguamenti"},
+      {"predicate": {"custom_model_data":1732}, "model": "item/spellbooks/attonus"},
+      {"predicate": {"custom_model_data":1733}, "model": "item/spellbooks/circulum_sanitatem"},
+      {"predicate": {"custom_model_data":1734}, "model": "item/spellbooks/consedo"},
+      {"predicate": {"custom_model_data":1735}, "model": "item/spellbooks/ignis_temptates"},
+      {"predicate": {"custom_model_data":1736}, "model": "item/spellbooks/iunior"},
+      {"predicate": {"custom_model_data":1737}, "model": "item/spellbooks/terrae_motus"}
   ]
 }
