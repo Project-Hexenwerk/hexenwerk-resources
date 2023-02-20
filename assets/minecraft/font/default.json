@@ -150,6 +150,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/icons/links/diamond.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE211"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:item/gui/spell_display/none.png",
             "ascent": 12,
             "height": 64,
@@ -189,6 +196,62 @@
             "ascent": 12,
             "height": 64,
             "chars": ["\uE506"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/amogius.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE507"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/aguamenti.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE508"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/attonus.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE509"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/circulum_sanitatem.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE510"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/consedo.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE511"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/ignis_temptates.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE512"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/iunior.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE513"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/terrae_motus.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE514"]
         },
         {
             "type": "bitmap",
