@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/magical_book"
+        "layer0": "item/spellbooks/terrae_motus"
     }
 }
