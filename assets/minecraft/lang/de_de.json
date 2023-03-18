@@ -22,7 +22,7 @@
   "text.hexenwerk.spell.not_enough_mana": "You don't have enough mana to cast that spell!",
   "text.hexenwerk.spell_none": "• Leer",
   "text.hexenwerk.spell_none_2": "Leer",
-  "Required Recource Pack installed: ✖": "§fBenötigtes Ressourcenpaket installiert:: §a§l\u2713",
+  "Required Recource Pack installed: ✖": "§fBenötigtes Ressourcenpaket installiert:: §a§l✔",
   "gui.hexenwerk.magical_crafting_table":"        Magisches Handwerk",
   "gui.hexenwerk.dev_desk":"Entwickler Tisch",
   "gui.hexenwerk.button.wand_crafting":"Zauberstabherstellung",
