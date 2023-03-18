@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/spellbooks/attonus"
+        "layer0": "item/blaze_core"
     }
 }

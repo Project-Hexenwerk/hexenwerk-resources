@@ -12,6 +12,7 @@
     {"predicate": {"custom_model_data":1730}, "model": "item/gui/dev_desk/items"},
     {"predicate": {"custom_model_data":1731}, "model": "item/gui/dev_desk/spells"},
     {"predicate": {"custom_model_data":1732}, "model": "item/gui/dev_desk/blocks"},
-    {"predicate": {"custom_model_data":1733}, "model": "item/gui/dev_desk/home"}
+    {"predicate": {"custom_model_data":1733}, "model": "item/gui/dev_desk/home"},
+    {"predicate": {"custom_model_data":1734}, "model": "item/player"}
   ]
 }

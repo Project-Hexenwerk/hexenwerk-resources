@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/jigsaw",
+  "textures": {
+    "layer0": "minecraft:block/jigsaw"
+    },
+    "overrides": [
+    {"predicate": {"custom_model_data":1725}, "model": "item/ender_core"},
+    {"predicate": {"custom_model_data":1726}, "model": "item/blaze_core"},
+    {"predicate": {"custom_model_data":1727}, "model": "item/explosive_core"}
+  ]
+}
