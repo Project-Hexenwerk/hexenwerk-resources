@@ -21,7 +21,7 @@
   "text.hexenwerk.swapslot": "Vyměnil vybraný slot vaší %s na %s!",
   "text.hexenwerk.spell.not_enough_mana": "Nemáš dost many na použití tohoto kouzla!",
   "text.hexenwerk.spell_none": "Žádné",
-  "Required Recource Pack installed: ✖": "§fPožadovaný Zdrojový balíček instalovaný: §a§l\u2713",
+  "Required Recource Pack installed: ✖": "§fPožadovaný Zdrojový balíček instalovaný: §a§l✔",
   "gui.hexenwerk.magical_crafting_table":"Magická Výroba",
   "gui.hexenwerk.dev_desk":"Vývojářská Lavice",
   "gui.hexenwerk.button.wand_crafting":"Hůlková výroba",
