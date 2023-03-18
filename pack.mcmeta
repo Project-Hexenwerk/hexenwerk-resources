@@ -2,18 +2,16 @@
   "pack":{
       "pack_format": 13,
       "description":[
-          {"text":"\"Recources for Hexenwerk - The Great Rewrite\"","color":"light_purple"},
+          {"text":"\"Resources for Hexenwerk - The Great Rewrite\"","color":"light_purple"},
           {"text":"\n"},
           {"text":"\u2022 Version ID: ","color":"white"},
-          {"text":"b","color":"yellow"},{"text":"0.1","color":"white"},
+          {"text":"b","color":"#6cdaf7"},{"text":"0.1","color":"white"},
           {"text":"\n"},
-          {"text":"\u2022 Version Type: ","color":"white"},{"text":"Alpha","color":"red"},
+          {"text":"\u2022 Version Type: ","color":"white"},{"text":"Beta","color":"#6cdaf7"},
           {"text":"\n"},
           {"text":"\u2022 Creator: ","color":"white"},{"text":"Flynecraft","color":"white"},
           {"text":"\n"},
           {"text":"\u2022 Textures: ","color":"white"},{"text":"PlayfulPotato","color":"white"},
-          {"text":"\n"},
-          {"text":"\u2022 Contains Dev Features: ","color":"white"},{"text":"\u2713","color":"green","bold": true},
           {"text":"\n"},
           {"text":"\u2022 Download on: ","color":"white"},{"text":"Modrinth, PMC (Previous Versions)","color":"white"}
       ]

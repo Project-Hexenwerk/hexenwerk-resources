@@ -165,6 +165,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/icons/links/mythicaldream69.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE213"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:item/gui/spell_display/none.png",
             "ascent": 12,
             "height": 64,
