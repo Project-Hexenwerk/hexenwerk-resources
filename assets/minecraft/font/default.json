@@ -169,6 +169,13 @@
             "ascent": 8,
             "height": 8,
             "chars": ["\uE213"]
+        },        
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/links/anas099.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE214"]
         },
         {
             "type": "bitmap",
