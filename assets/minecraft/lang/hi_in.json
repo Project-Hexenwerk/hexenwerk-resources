@@ -22,7 +22,7 @@
   "text.hexenwerk.spell.not_enough_mana": "उस जादू को डालने के लिए आपके पास पर्याप्त माना नहीं है!",
   "text.hexenwerk.spell_none": "•कोई नहीं",
   "text.hexenwerk.spell_none_2": "कोई नहीं",
-  "Required Recource Pack installed: ✖": "§faआपके पास आवश्यक रीकोर्सपैक स्थापित है: §a§l\u2713",
+  "Required Recource Pack installed: ✖": "§faआपके पास आवश्यक रीकोर्सपैक स्थापित है: §a \u2713",
   "gui.hexenwerk.magical_crafting_table":"         जादुई कारीगरी",
   "gui.hexenwerk.dev_desk":"डेवलपर की मेज़",
   "gui.hexenwerk.button.wand_crafting":"छड़ी कारीगरी",

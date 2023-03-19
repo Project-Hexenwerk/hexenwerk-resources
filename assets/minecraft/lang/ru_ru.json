@@ -21,7 +21,7 @@
   "text.hexenwerk.swapslot": "Выбранный слот %s поменялся местами на %s!",
   "text.hexenwerk.spell.not_enough_mana": "У вас недостаточно маны для этого заклинания!",
   "text.hexenwerk.spell_none": "Отсутствует",
-  "Required Recource Pack installed: ✖": "§fУстановлен необходимый пакет ресурсов: §a§l\u2713",
+  "Required Recource Pack installed: ✖": "§fУстановлен необходимый пакет ресурсов: §a \u2713",
   "gui.hexenwerk.magical_crafting_table": "Магический верстак",
   "gui.hexenwerk.dev_desk": "Стол разработчика",
   "gui.hexenwerk.button.wand_crafting": "Изготовление жезлов",

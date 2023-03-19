@@ -25,7 +25,7 @@
     "text.hexenwerk.help": "§nExisted things to do:§r\n\n \"/trigger hexenwerk.help\"\n \"/trigger hexenwerk.languages\"",
     "text.hexenwerk.spell_none": "• No",
     "text.hexenwerk.spell_none_2": "No",
-    "Required Recource Pack installed: ✖": "§fU has the fancy box?: §a§l\u2713",
+    "Required Recource Pack installed: ✖": "§fU has the fancy box?: §a \u2713",
     "gui.hexenwerk.magical_crafting_table":"          Wizrd makey desk",
     "gui.hexenwerk.dev_desk":"Nerd tabel",
     "gui.hexenwerk.button.wand_crafting":"Stick makey",

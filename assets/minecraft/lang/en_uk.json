@@ -21,7 +21,7 @@
   "text.hexenwerk.swapslot": "Swapped the selected slot of your %s to %s!",
   "text.hexenwerk.spell.not_enough_mana": "You don't have enough mana to cast that spell!",
   "text.hexenwerk.spell_none": "None",
-  "Required Recource Pack installed: ✖": "§fRequired Recource Pack installed: §a§l✔",
+  "Required Recource Pack installed: ✖": "§fRequired Recource Pack installed: §a ✔",
   "gui.hexenwerk.magical_crafting_table":"Magical Crafting",
   "gui.hexenwerk.dev_desk":"Developer's Desk",
   "gui.hexenwerk.button.wand_crafting":"Wand Crafting",

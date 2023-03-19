@@ -25,7 +25,7 @@
     "text.hexenwerk.help": "§nAktuálne použiteľné príkazy:§r\n\n \"/trigger hexenwerk.help\"\n \"/trigger hexenwerk.languages\"",
     "text.hexenwerk.spell_none": "• Žiadny",
     "text.hexenwerk.spell_none_2": "Žiadny",
-    "Required Recource Pack installed: ✖": "§fPožadovaný balíček zdrojov je nainštalovaný: §a§l\u2713",
+    "Required Recource Pack installed: ✖": "§fPožadovaný balíček zdrojov je nainštalovaný: §a \u2713",
     "gui.hexenwerk.magical_crafting_table":"          Magická Výroba",
     "gui.hexenwerk.dev_desk":"Stôl Vývojára",
     "gui.hexenwerk.button.wand_crafting":"Hůlková Výroba",
