@@ -179,6 +179,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/icons/links/undefined.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE215"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:item/gui/spell_display/none.png",
             "ascent": 12,
             "height": 64,

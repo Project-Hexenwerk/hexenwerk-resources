@@ -6,7 +6,8 @@
     "overrides": [
     {"predicate": {"custom_model_data":1725}, "model": "item/magical_flower"},
     {"predicate": {"custom_model_data":1726}, "model": "item/wand_crafter"},
-    {"predicate": {"custom_model_data":1727}, "model": "item/dev_desk"}
+    {"predicate": {"custom_model_data":1727}, "model": "item/dev_desk"},
+    {"predicate": {"custom_model_data":1728}, "model": "item/spell_blocker"}
 
   ]
 }
