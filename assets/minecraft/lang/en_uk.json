@@ -21,6 +21,7 @@
   "text.hexenwerk.swapslot": "Swapped the selected slot of your %s to %s!",
   "text.hexenwerk.spell.not_enough_mana": "You don't have enough mana to cast that spell!",
   "text.hexenwerk.spell_none": "None",
+  "text.hexenwerk.updated_item": "We noticed that your %s had outdated data, so we decided to fix it! If anything went wrong please click this message to file a bug report!",
   "Required Recource Pack installed: ✖": "§fRequired Recource Pack installed: §a ✔",
   "gui.hexenwerk.magical_crafting_table":"Magical Crafting",
   "gui.hexenwerk.dev_desk":"Developer's Desk",
@@ -37,5 +38,6 @@
   "advancement.hexenwerk.description.crafting":"Craft a Magical Crafting Table",
   "advancement.hexenwerk.spell":"You're A Wizard, Harry!",
   "advancement.hexenwerk.description.spell":"Cast your first spell",
-  "death.attack.hexenwerk_ignis_temptates.item":"%s went up in the flames of %s's inferno"
+  "death.attack.hexenwerk_ignis_temptates.item":"%s went up in the flames of %s's inferno",
+  "death.attack.hexenwerk_glacius.item":"%s was impaled by %s's ice spike"
 }

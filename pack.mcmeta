@@ -1,6 +1,6 @@
 {
   "pack":{
-      "pack_format": 13,
+      "pack_format": 15,
       "description":[
           {"text":"\"Resources for Hexenwerk - The Great Rewrite\"","color":"light_purple"},
           {"text":"\n"},

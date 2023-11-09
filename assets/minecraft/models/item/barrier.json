@@ -4,7 +4,7 @@
     "layer0": "item/barrier"
     },
     "overrides": [
-      {"predicate": {"custom_model_data":1725}, "model": "item/gui/wand_crafter"},
+    {"predicate": {"custom_model_data":1725}, "model": "item/gui/wand_crafter"},
     {"predicate": {"custom_model_data":1726}, "model": "item/gui/magical_crafting_table"},
     {"predicate": {"custom_model_data":1727}, "model": "item/gui/button_craft"},
     {"predicate": {"custom_model_data":1728}, "model": "item/gui/button_wand"},
@@ -13,6 +13,7 @@
     {"predicate": {"custom_model_data":1731}, "model": "item/gui/dev_desk/spells"},
     {"predicate": {"custom_model_data":1732}, "model": "item/gui/dev_desk/blocks"},
     {"predicate": {"custom_model_data":1733}, "model": "item/gui/dev_desk/home"},
-    {"predicate": {"custom_model_data":1734}, "model": "item/player"}
+    {"predicate": {"custom_model_data":1734}, "model": "item/player"},
+    {"predicate": {"custom_model_data":1735}, "model": "item/gui/wand_crafter_expanded"}
   ]
 }

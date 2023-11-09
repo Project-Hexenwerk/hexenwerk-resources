@@ -45,6 +45,90 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/regen/mana_point_full.png",
+            "ascent": -9,
+            "height": 16,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/regen/mana_point_half.png",
+            "ascent": -9,
+            "height": 16,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/regen/mana_point_empty.png",
+            "ascent": -9,
+            "height": 16,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/regen/mana_point_full.png",
+            "ascent": 1,
+            "height": 16,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/regen/mana_point_half.png",
+            "ascent": 1,
+            "height": 16,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/regen/mana_point_empty.png",
+            "ascent": 1,
+            "height": 16,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/maximum/mana_point_full.png",
+            "ascent": -9,
+            "height": 16,
+            "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/maximum/mana_point_half.png",
+            "ascent": -9,
+            "height": 16,
+            "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/maximum/mana_point_empty.png",
+            "ascent": -9,
+            "height": 16,
+            "chars": ["\uE015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/maximum/mana_point_full.png",
+            "ascent": 1,
+            "height": 16,
+            "chars": ["\uE016"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/maximum/mana_point_half.png",
+            "ascent": 1,
+            "height": 16,
+            "chars": ["\uE017"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/icons/attuned/maximum/mana_point_empty.png",
+            "ascent": 1,
+            "height": 16,
+            "chars": ["\uE018"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:item/icons/flags/de.png",
             "ascent": 13,
             "height": 16,
@@ -281,6 +365,20 @@
             "ascent": 12,
             "height": 64,
             "chars": ["\uE514"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/glacius.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE515"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gui/spell_display/commovus_motus.png",
+            "ascent": 12,
+            "height": 64,
+            "chars": ["\uE516"]
         },
         {
             "type": "bitmap",
