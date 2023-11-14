@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/wand_crafter_side",
-		"2": "block/wand_crafter_bottom",
+		"1": "block/dev_desk_side",
+		"2": "block/dev_desk_bottom",
 		"4": "block/dev_desk_top",
 		"particle": "block/wand_crafter_side"
 	},
