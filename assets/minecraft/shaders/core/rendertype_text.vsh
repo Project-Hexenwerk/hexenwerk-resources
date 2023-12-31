@@ -6,6 +6,7 @@ in vec3 Position;
 in vec4 Color;
 in vec2 UV0;
 in ivec2 UV2;
+int id = gl_VertexID % 4;
 
 uniform sampler2D Sampler0;
 uniform sampler2D Sampler2;
@@ -25,6 +26,8 @@ void main() {
     vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
     vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0);
     texCoord0 = UV0;
+    vec2 texOffset = 32/textureSize(Sampler0, 0);
+    vec4 specialPixel;
 
         // v Code borrowed from PuckiSilver (https://github.com/PuckiSilver/NoShadow)
     if (Color == vec4(78/255., 92/255., 36/255., Color.a) && Position.z == 0.03) {
@@ -34,8 +37,8 @@ void main() {
     }
         // ^ Code borrowed from PuckiSilver (https://github.com/PuckiSilver/NoShadow)  
     
+
         //force stuff into top left corner
-        //change text position
      else if(Color == vec4(1.,0.,0., Color.a)){
 				vertexColor = vec4(1.,1.,1., 1.);
         		gl_Position.x -= 1;
@@ -43,6 +46,22 @@ void main() {
 
         //remove stext shadow
 	} else if(Color == vec4(63/255., 0., 0., Color.a)){ 
-			vertexColor = vec4(0); 	// remove shadow color 
-	}
+        		gl_Position.x -= 1;
+				gl_Position.y += 1;
+        	}
+
+    ivec2 iUV0 = ivec2(UV0 * textureSize(Sampler0, 0) + vec2(0.5));
+    ivec2[] corners = ivec2[](
+        ivec2(0, 0),
+        ivec2(0, -1),
+        ivec2(-1, -1),
+        ivec2(-1, 0)
+    );
+    
+    vec4 topleft = texelFetch(Sampler0, iUV0 + corners[gl_VertexID % 4] * 32, 0);
+
+    if (ivec4(topleft * 255 + vec4(0.5)) == ivec4(211, 56, 255, 19)) {
+        gl_Position.xy += vec2(-1, 1);
+    }
+
 }
