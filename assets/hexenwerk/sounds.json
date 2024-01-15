@@ -1,0 +1,7 @@
+{
+    "cast_spell":{
+        "sounds": [
+            "hexenwerk:cast_spell"
+        ]
+    }
+}
