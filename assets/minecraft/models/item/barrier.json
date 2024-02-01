@@ -15,6 +15,6 @@
     {"predicate": {"custom_model_data":1733}, "model": "item/gui/dev_desk/home"},
     {"predicate": {"custom_model_data":1734}, "model": "item/player"},
     {"predicate": {"custom_model_data":1735}, "model": "item/gui/wand_crafter_expanded"},
-    {"predicate": {"custom_model_data":1736}, "model": "item/protego"}
-  ]
+    {"predicate": {"custom_model_data":12414}, "model": "item/entities/custom_spell_orb"}
+    ]
 }

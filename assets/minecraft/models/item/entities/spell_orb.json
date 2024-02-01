@@ -1,0 +1,19 @@
+{
+	"textures": {
+		"1": "item/entities/spell_orb"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 5],
+			"to": [10, 4, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#1","tintindex": 0},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#1","tintindex": 0},
+				"south": {"uv": [4, 0, 8, 4], "texture": "#1","tintindex": 0},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#1","tintindex": 0},
+				"up": {"uv": [4, 12, 0, 8], "texture": "#1","tintindex": 0},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#1","tintindex": 0}
+			}
+		}
+	]
+}

@@ -26,6 +26,8 @@
   "attunement.hexenwerk.expansion": "Expansion",
   "attunement.hexenwerk.overflow": "Overflow",
   "text.hexenwerk.swapslot": "Swapped the selected slot of your %s to %s!",
+  "text.hexenwerk.cast_outdated": "It seems like the spell you are trying to cast is outdated. Please remove it from your Wand and select it in your hotbar to update it!",
+  "text.hexenwerk.spell_updated": "Your selected item has been updated to the newest version!",
   "text.hexenwerk.spell.not_enough_mana": "You don't have enough mana to cast that spell!",
   "text.hexenwerk.spell_none": "None",
   "text.hexenwerk.updated_item": "We noticed that your %s had outdated data, so we decided to fix it! If anything went wrong please click this message to file a bug report!",
@@ -46,6 +48,7 @@
   "advancement.hexenwerk.spell": "You're A Wizard, Harry!",
   "advancement.hexenwerk.description.spell": "Cast your first spell",
   "death.attack.hexenwerk_ignis_temptates.item": "%s went up in the flames of %s's inferno",
+  "death.attack.hexenwerk_ignis_temptates": "%s went up in a flaming inferno",
   "death.attack.hexenwerk_glacius.item": "%s was impaled by %s's ice spike",
   "death.attack.mystical_mob.smash": "%s was smashed to death by %s"
 }

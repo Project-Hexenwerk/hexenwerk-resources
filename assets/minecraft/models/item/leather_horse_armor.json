@@ -20,7 +20,8 @@
     {"predicate": {"custom_model_data":1737}, "model": "item/spellbooks/terrae_motus"},
     {"predicate": {"custom_model_data":1738}, "model": "item/spellbooks/glacius"},
     {"predicate": {"custom_model_data":1739}, "model": "item/spellbooks/commovus_motus"},
-		{"predicate": {"custom_model_data":1740},"model": "item/spellbooks/protego"},
-		{"predicate": {"custom_model_data":1800},"model": "item/spellbooks/custom"}
+    {"predicate": {"custom_model_data":1740}, "model": "item/spellbooks/protego"},
+    {"predicate": {"custom_model_data":1800}, "model": "item/entities/spell_orb"},
+    {"predicate": {"custom_model_data":1801}, "model": "item/spell_rays/default"}
     ]
 }

@@ -12,6 +12,7 @@
     {"predicate": {"custom_model_data":1730}, "model": "item/attuned_wands/cost"},
     {"predicate": {"custom_model_data":1825}, "model": "item/dev_stone_deactivated"},
     {"predicate": {"custom_model_data":1826}, "model": "item/dev_stone_debug"},
-    {"predicate": {"custom_model_data":1827}, "model": "item/dev_stone_dev"}
+    {"predicate": {"custom_model_data":1827}, "model": "item/dev_stone_dev"},
+    {"predicate": {"custom_model_data":1925}, "model": "item/scrolls/generic"}
   ]
 }
